@@ -20,7 +20,7 @@ const router = createBrowserRouter([
    },
    {
     path: "/new",
-    element: <Home />
+    element: <NewPost/>
    }
   ]
 }
